@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repo.
 <br>
-Author - Karan Masirkar
+Author - Karan Masirkar {Pallotti College}
